@@ -147,9 +147,9 @@ This project demonstrates how data-driven analytics can modernize retail operati
 
 | Name | Role | Contribution |
 |---|---|---|
-| [Your Name] | Team Leader | Data collection, preprocessing pipeline, EDA, model development, report |
-| [Teammate A] | Member | Association rule mining (analysis.py), visualization notebook, graphs |
-| [Teammate B] | Member | RFM analysis & clustering (model.py), results interpretation, presentation |
+| [V Shreya](https://github.com/ShreyaVijaykumar) | Team Leader | Data collection, preprocessing pipeline, EDA, model development, report, Association rule mining (analysis.py) |
+| [Shaik Arbaaz](https://github.com/ShaikArbaaz) | Member | visualization notebook, graphs, RFM analysis & clustering (model.py), results interpretation, presentation |
+
 
 ---
 
